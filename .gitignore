@@ -1,0 +1,14 @@
+.gradle
+.idea
+*.iml
+*.properties
+/app/build
+/libs
+/captures
+*.iml
+.externalNativeBuild
+*.gradle
+/gradle
+*.pro
+*.bat
+*gradlew*

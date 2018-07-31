@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lollpaper</string>
+    <string name="okBtn">установить обои</string>
+    <string name="next"><![CDATA[>>]]></string>
+    <string name="prev"><![CDATA[<<]]></string>
+    <string name="androiddev">forAndroidDev https://github.com/BlackHarold</string>
+</resources>
